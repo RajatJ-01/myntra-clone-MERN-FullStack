@@ -20,17 +20,17 @@ Add, view, and remove items from the shopping bag with ease, enhancing the shopp
 ### Price Calculation:
 Get transparent pricing details, including total MRP, discounts, convenience fees, and final payment amount, ensuring clarity and accuracy in shopping transactions.
 
-# How to Use:
-## 1.Clone the repository to your local machine.
-## 2.Navigate to the client directory, install dependencies, and run command "npm start".
-## 3.Access the application in your web browser and explore the Myntra clone interface.
-## 4.Add items to your shopping bag, view pricing details, and manage your selections as needed.
+## How to Use:
+### 1.Clone the repository to your local machine.
+### 2.Navigate to the client directory, install dependencies, and run command "npm start".
+### 3.Access the application in your web browser and explore the Myntra clone interface.
+### 4.Add items to your shopping bag, view pricing details, and manage your selections as needed.
 
-# Contributions:
+## Contributions:
 Contributions are encouraged! Fork the repository, implement enhancements or new features, and submit pull requests to contribute to the project's development.
 
-# License:
+## License:
 This project is licensed under the MIT License, providing flexibility for both personal and commercial use.
 
-# Experience the Myntra Clone:
+## Experience the Myntra Clone:
 Embark on a journey through the world of online fashion with the "Myntra Clone React" repository. Explore, shop, and enjoy a seamless shopping experience reminiscent of Myntra's renowned platform. Happy shopping!
